@@ -1,5 +1,8 @@
 
 # XMeme
+<p align="center"> 
+<img width="200" height="200" src="https://raw.githubusercontent.com/axitchandora/Personal-Stuff/main/Images/qmoney.png">
+
 
 ### XMeme is a simple backend web application where users can post and see memes.
 
